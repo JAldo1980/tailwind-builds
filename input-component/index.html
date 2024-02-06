@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <title>input-component-tailwind</title>
+  </head>
+  <body>
+    <div class="wrapper md p-1 h-screen flex justify-center">
+      <div class="container max-w-96 mt-1 mb-1 ml-auto mr-auto">
+        <div
+          class="
+            input-container
+            flex flex-col
+            gap-4
+            items-center
+            border-4 border-gray-500
+            rounded-lg
+            w-1/2
+            h-1/2
+            mt-1
+            mb-1
+            ml-auto
+            mr-auto
+            pt-32
+            pb-32
+          "
+        >
+          <h3 class="text-gray-900 text-center font-bold">Enter Full Name</h3>
+          <input
+            class="
+              border-2 border-gray-100
+              p-2
+              rounded-lg
+              w-1/2
+              pl-2
+              pr-2
+              shadow-sm
+              placeholder-blue-400
+            "
+            type="text"
+            placeholder="Enter full name"
+          />
+          <button
+            class="
+              bg-purple-900
+              hover:bg-purple-700
+              transition
+              duration-300
+              text-white
+              pt-1
+              pb-1
+              pl-2
+              pr-2
+              rounded-md
+              cursor-pointer
+            "
+          >
+            Save
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
