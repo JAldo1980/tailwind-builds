@@ -70,7 +70,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/5c/89/wsBjGkzA_o.png"
+            src="https://images2.imgbox.com/a9/03/6szBH6Bi_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
