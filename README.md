@@ -227,7 +227,7 @@
         <a href="#" rel="nofollow">
           <img
             alt="project preview"
-            src="https://images2.imgbox.com/64/5b/IjqYIZpd_o.png"
+            src="https://images2.imgbox.com/16/00/aDAVVsAe_o.png"
             style="visibility: visible; max-width: 100%"
           />
         </a>
